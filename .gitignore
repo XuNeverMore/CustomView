@@ -4,7 +4,7 @@
 /build
 /captures
 .externalNativeBuild
-/idea
+/.idea
 /gradle
 /local.properties
 /app/src/androidTest
